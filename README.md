@@ -37,9 +37,9 @@ This project requires obtaining API keys for both Gemini 1.5 Flash and Pinecone 
 
 ### Few Infos
 
-LLM: Google 1.5 Flash Latest
-Dimensions: 768
-embeddings: models/embedding-001
+1. LLM: Google 1.5 Flash Latest
+2. Dimensions: 768
+3. embeddings: models/embedding-001
 
 
 ### Dependencies
@@ -51,7 +51,7 @@ This project utilizes several Python libraries, make sure to install the require
 Once you've completed the setup steps, replace the question with your own question or create a new invoke line!
 
 chain.invoke({'question': "YOUR ACTUAL QUESTION HERE"})
-
+----------------------------------------------------------------------------------------------------------------------
 
 Hope this helps !!!!
 
